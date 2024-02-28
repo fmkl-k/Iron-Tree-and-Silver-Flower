@@ -8,4 +8,4 @@ To run the project, open the Arduino program files in the Arduino IDE for testin
 Ensure that the Arduino board is connected to two TTP223 touch sensors, an HC-SR04 distance sensor, and an MPU6050 gyroscope. In Unity, ensure that the Uduino plugin and LCPrinter plugin are installed. <br /> 
 
 For specific wiring instructions for the components, refer to the image below：<br /> 
-![Wiring Method]()
+![Wiring Method](https://github.com/fmkl-k/Iron-Tree-and-Silver-Flower/blob/master/image.png)
